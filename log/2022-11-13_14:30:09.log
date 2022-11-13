@@ -1,0 +1,5 @@
+2022-11-13 14:30:09,204 - __main__ - CRITICAL - Started
+2022-11-13 14:30:09,205 - __main__ - WARNING - warning message
+2022-11-13 14:30:09,205 - __main__ - ERROR - error message
+2022-11-13 14:30:09,205 - __main__ - CRITICAL - critical message
+2022-11-13 14:30:09,205 - __main__ - CRITICAL - Ended

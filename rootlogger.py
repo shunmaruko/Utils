@@ -5,7 +5,7 @@ import sys
 
 logger = logging.getLogger(__name__)
 
-def _get_loglevel() -> :
+def _get_loglevel() -> int:
     """ get loglevel from command line argment
     Return:
         numeric_level(int):Number assined to each logging level 
@@ -71,5 +71,5 @@ if __name__=="__main__":
     logger.warning('warning message')
     logger.error('error message')
     logger.critical("critical message")
-    logger.criical('Ended')
+    logger.critical('Ended')
 
