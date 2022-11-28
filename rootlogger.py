@@ -3,8 +3,7 @@ import logging
 import time
 import sys
 
-from .paths import REPOSITORY_DIRECTORY 
-from .paths_helper import create_paths
+from .paths import REPOSITORY_DIRECTORY, create_paths
 
 logger = logging.getLogger(__name__)
 
